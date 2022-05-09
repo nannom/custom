@@ -1,0 +1,6 @@
+﻿  코드를 생성하고 있습니다.
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+  All 394 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  코드를 생성했습니다.
+customwindow_release.lib(customwindow.obj) : warning LNK4099: 'customwindow.pdb' PDB를 'customwindow_release.lib(customwindow.obj)' 또는 'D:\VS 2022 project\CWHFIP\Release\customwindow.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+  CWHFIP.vcxproj -> D:\VS 2022 project\CWHFIP\Release\CWHFIP.exe
