@@ -1,2 +1,2 @@
 # custom
-you should install VS
+You need to install VS
